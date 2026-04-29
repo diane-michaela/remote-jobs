@@ -2,15 +2,15 @@
 title: "PhantomBuster"
 slug: phantombuster
 website: https://phantombuster.com/
-careers_url: https://phantombuster.com/jobs
+careers_url: https://careers.phantombuster.com/jobs
 region: worldwide
-remote_policy: remote-first
+remote_policy: fully-remote
 company_size: small
 technologies:
-  - javascript
+  - typescript
   - node
   - react
-  - typescript
+  - aws
 addedAt: 2026-04-29
 ---
 
@@ -20,7 +20,7 @@ PhantomBuster is a cloud-based automation platform that enables sales and market
 
 ## Remote status
 
-PhantomBuster operates as a remote-first company with team members distributed across multiple countries.
+PhantomBuster is a fully remote company with team members distributed across multiple countries.
 
 ## Region
 
@@ -28,4 +28,4 @@ Worldwide
 
 ## How to apply
 
-Browse open roles at [phantombuster.com/jobs](https://phantombuster.com/jobs).
+Browse open roles at [careers.phantombuster.com/jobs](https://careers.phantombuster.com/jobs).
