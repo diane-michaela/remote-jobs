@@ -7,10 +7,8 @@ region: worldwide
 remote_policy: fully-remote
 company_size: small
 technologies:
-  - typescript
-  - node
-  - react
-  - aws
+  - javascript
+  - cloud
 addedAt: 2026-04-29
 ---
 
